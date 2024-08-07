@@ -9,6 +9,6 @@
 # How to run
 
 * Compile typescript file with tsc
-*   tsc groq-exaple.ts
+*     tsc groq-exaple.ts
 *   Run your javascript file with
 *     node groq-example.js
